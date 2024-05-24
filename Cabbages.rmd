@@ -32,7 +32,7 @@ $H_A$: There is a difference in the average vitamin C content based on cultivati
 
 Vitamin C is numerical, cultivation is categorical
 
-numerical-catagorical helper file
+numerical-categorical helper file
 
 # Results
 
@@ -71,7 +71,7 @@ t.test(VitC~Cult,data=veggy)
 p-value is 0.00000005 is less than 0.05, we reject the null hypothesizes
 # One Way Anova
 # Discussion and Conclusion
-
+The question is " If vitamin C cultivation c39 was higher than Vitamin C cultivation c52?" The data showed that Vitamin c was greater than c39 from 0.00000003405 < 0.05
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
